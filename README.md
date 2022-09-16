@@ -1,5 +1,5 @@
 # Tic-Tac-Toe  
-TicTacToe game developed in Python with a computer AI implementation for the Console interface.  
+TicTacToe game developed in Python with a computer AI implementation for the Console environment.  
 The AI is unbeatable due to its minmax algorithm.  
 There is also a possibility in the code to change for a Human Vs Human game mode. Enjoy!  
 
